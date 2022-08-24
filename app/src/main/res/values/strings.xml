@@ -8,4 +8,10 @@
     <string name="teleResidenciaRb">Residencial</string>
     <string name="contemCelularCb">Adicionar o telefone celular</string>
     <string name="celularTv">Celular</string>
+    <string name="sexoTv">Sexo</string>
+    <string name="masculinoRb">Masculino</string>
+    <string name="femininoRb">Feminino</string>
+    <string name="dataNascimentoTv">Data de nascimnnto</string>
+    <string name="formacaoTv">Formação academica</string>
+    <string name="anoFormaturaTv">Ano de formatura</string>
 </resources>
