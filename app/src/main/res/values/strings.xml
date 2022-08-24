@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">HaVagas</string>
+    <string name="nomeTv">Nome</string>
+    <string name="emailTv">E-mail</string>
+    <string name="emailMensagemCb">Deseja receber e-mail com atualizações de oportunidades?</string>
+    <string name="telefoneTv">Telefone</string>
+    <string name="teleComercialRb">Comercial</string>
+    <string name="teleResidenciaRb">Residencial</string>
+    <string name="contemCelularCb">Adicionar o telefone celular</string>
+    <string name="celularTv">Celular</string>
 </resources>
