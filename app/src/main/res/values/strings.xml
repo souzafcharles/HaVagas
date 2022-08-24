@@ -14,4 +14,21 @@
     <string name="dataNascimentoTv">Data de nascimnnto</string>
     <string name="formacaoTv">Formação academica</string>
     <string name="anoFormaturaTv">Ano de formatura</string>
+    <string name="anoConclusaoGraduacaoEspecializacao">Ano de conclusão</string>
+    <string name="instituicaoTv">Instituição</string>
+    <string name="anoConclusaoMestradoDoutoradoTv">Ano de conclusão</string>
+    <string name="instituicaoMestradoDoutoradoTv">Instituição</string>
+    <string name="tituloMonografiaTv">Título de monografia</string>
+    <string name="orientadorTv">Orientador</string>
+    <string name="vagasTv">Vagas</string>
+    <string name="salvarBtn">Salvar</string>
+    <string name="limparBtn">Limpar</string>
+    <string-array name="formacao">
+        <item>Fundamental</item>
+        <item>Médio</item>
+        <item>Graduação</item>
+        <item>Especialização</item>
+        <item>Mestrado</item>
+        <item>Doutorado</item>
+    </string-array>
 </resources>
