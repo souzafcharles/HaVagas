@@ -160,7 +160,6 @@ public class FormularioCadastro {
     public void setAnoEspecializacao(String anoEspecializacao) {
         this.anoEspecializacao = anoEspecializacao;
     }
-
     public String getAnoMestrado() {
         return anoMestrado;
     }
@@ -184,7 +183,6 @@ public class FormularioCadastro {
     public void setTituloMonografia(String tituloMonografia) {
         this.tituloMonografia = tituloMonografia;
     }
-
     public String getOrientador() {
         return orientador;
     }
